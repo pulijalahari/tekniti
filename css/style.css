@@ -20,9 +20,9 @@ This file contains all styles for GIOSS theme
 }
 .zui-table tbody td {
     border: solid 1px #DDEEEE;
-    color: #333;
+    color: green;
     padding: 10px;
-    text-shadow: 1px 1px 1px #fff;
+    
 }
 .zui-table-highlight-all {
     overflow: hidden;
